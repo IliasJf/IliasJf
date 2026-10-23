@@ -25,5 +25,5 @@ By day I supervise a BIM store, so I know retail from the inside: stock, custome
 |---|---|---|
 | [SkyStore](https://github.com/IliasJf/SkyStore) | Responsive online store: product pages, cart, account, contact | HTML · CSS · JS |
 | [Dentist-WebSite](https://github.com/IliasJf/Dentist-WebSite) | Dental clinic site with a contact form saved to MySQL | PHP · MySQL · CSS · JS |
-| [NonProductStock](https://github.com/IliasJf/NonProductStock) | Desktop tool for tracking non-product stock | C# |
+| [NonProductStock](https://github.com/IliasJf/NonProductStock) | Windows app to manage components, suppliers, stock operations and emergency stock | C# · WinForms · SQL Server |
 | [Portfolio](https://github.com/IliasJf/IliasJf.github.io) | My personal site, hand-built with no framework | HTML · CSS · JS |
