@@ -26,6 +26,7 @@ By day I'm a Store Délégué at BIM, so I see every day what makes a customer w
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
+| **Maâlem** | Moroccan crafts online shop in French, Arabic and English: filters, variants, bag, cash on delivery checkout, WhatsApp confirmation. | React · Tailwind | [Live](https://iliasjf.github.io/maalem/) · [Code](https://github.com/IliasJf/maalem) |
 | **Café Menu** | Phone-first café menu in French, Arabic and English. The order goes to the café on WhatsApp in one tap. | HTML · CSS · JS | [Live](https://iliasjf.github.io/cafe-menu/) · [Code](https://github.com/IliasJf/cafe-menu) |
 | **Halden Estates** | Real estate website: search, filters in the URL, property pages with a gallery, enquiry form. | React · Tailwind | [Live](https://iliasjf.github.io/halden-estates/) · [Code](https://github.com/IliasJf/halden-estates) |
 | **Shop Dashboard** | Sales and stock dashboard for a small shop: daily sales, busy hours, best sellers, low-stock alerts. No libraries. | HTML · CSS · JS | [Live](https://iliasjf.github.io/shop-dashboard/) · [Code](https://github.com/IliasJf/shop-dashboard) |
