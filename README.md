@@ -1,13 +1,13 @@
 ### Hi, I'm Ilias 👋
 
-**Front-end developer building mobile-friendly websites for shops, cafés, clinics and small businesses.**
+**Front-end developer building fast, mobile-friendly websites and web interfaces.**
 
-By day I'm a Store Délégué at BIM, so I see every day what makes a customer walk in, or walk out. I use that to build websites and tools that answer a customer's questions before they come in.
+By day I'm a Store Délégué at BIM, so I see every day what makes a customer walk in, or walk out. I bring that to every interface I build: answer the user's questions before they have to ask.
 
 - 🌐 **Portfolio:** [iliasjf.github.io](https://iliasjf.github.io)
 - 💼 **LinkedIn:** [in/ilias-jafaoui](https://www.linkedin.com/in/ilias-jafaoui)
-- 📍 Ben Slimane, Morocco · open to freelance projects
-- 💬 Own a shop, a café or a clinic? Message me on LinkedIn for a **free website check**.
+- 📍 Based in Morocco · open to remote and freelance work, anywhere, any time zone
+- 💬 Need a website or a front-end developer? Message me on LinkedIn.
 
 #### 🛠 Tech I use
 
