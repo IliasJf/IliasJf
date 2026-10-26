@@ -1,6 +1,6 @@
 ### Hi, I'm Ilias 👋
 
-**Front-end developer building mobile-friendly websites for shops, cafés, clinics and small businesses in Morocco.**
+**Front-end developer building mobile-friendly websites for shops, cafés, clinics and small businesses.**
 
 By day I'm a Store Délégué at BIM, so I see every day what makes a customer walk in, or walk out. I use that to build websites and tools that answer a customer's questions before they come in.
 
