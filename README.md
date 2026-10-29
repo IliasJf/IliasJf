@@ -17,6 +17,8 @@ By day I'm a Store Délégué at BIM, so I see every day what makes a customer w
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -26,6 +28,7 @@ By day I'm a Store Délégué at BIM, so I see every day what makes a customer w
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
+| **TableTap** | Café QR menu with WhatsApp ordering. Owners edit the menu in English, French and Arabic, upload photos, and track orders; email sign-in, spam limits, 29 automated tests. | TypeScript · React · Cloudflare D1 | [Code](https://github.com/IliasJf/tabletap) |
 | **Halden Estates** | Real estate website: search, filters in the URL, property pages with a gallery, enquiry form. | React · Tailwind | [Live](https://iliasjf.github.io/halden-estates/) · [Code](https://github.com/IliasJf/halden-estates) |
 | **Shop Dashboard** | Sales and stock dashboard for a small shop: daily sales, busy hours, best sellers, low-stock alerts. No libraries. | HTML · CSS · JS | [Live](https://iliasjf.github.io/shop-dashboard/) · [Code](https://github.com/IliasJf/shop-dashboard) |
 | **SkyStore** | Sportswear store in plain JavaScript: filters, sizes and colours, cart with promo codes, cash on delivery checkout, accounts and order history. | HTML · CSS · JS | [Live](https://iliasjf.github.io/SkyStore/) · [Code](https://github.com/IliasJf/SkyStore) |
