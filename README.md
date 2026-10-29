@@ -28,7 +28,7 @@ By day I'm a Store Délégué at BIM, so I see every day what makes a customer w
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **TableTap** | Café QR menu with WhatsApp ordering. Owners edit the menu in English, French and Arabic, upload photos, and track orders; email sign-in, spam limits, 29 automated tests. | TypeScript · React · Cloudflare D1 | [Code](https://github.com/IliasJf/tabletap) |
+| **TableTap** | Café QR menu with WhatsApp ordering. Owners edit the menu in English, French and Arabic, upload photos, and track orders; email sign-in, spam limits, 29 automated tests. | TypeScript · React · Cloudflare D1 | [Live](https://iliasjf.github.io/tabletap/) · [Code](https://github.com/IliasJf/tabletap) |
 | **Halden Estates** | Real estate website: search, filters in the URL, property pages with a gallery, enquiry form. | React · Tailwind | [Live](https://iliasjf.github.io/halden-estates/) · [Code](https://github.com/IliasJf/halden-estates) |
 | **Shop Dashboard** | Sales and stock dashboard for a small shop: daily sales, busy hours, best sellers, low-stock alerts. No libraries. | HTML · CSS · JS | [Live](https://iliasjf.github.io/shop-dashboard/) · [Code](https://github.com/IliasJf/shop-dashboard) |
 | **SkyStore** | Sportswear store in plain JavaScript: filters, sizes and colours, cart with promo codes, cash on delivery checkout, accounts and order history. | HTML · CSS · JS | [Live](https://iliasjf.github.io/SkyStore/) · [Code](https://github.com/IliasJf/SkyStore) |
